@@ -1,0 +1,8 @@
+https://inference.cloudrift.ai,/v1/chat/completions,deepseek-ai/DeepSeek-R1-0528,<API KEY>
+https://api.deepinfra.com/v1/openai,/chat/completions,deepseek-ai/DeepSeek-R1-0528,<API KEY>
+https://api.deepinfra.com/v1/openai,/chat/completions,deepseek-ai/DeepSeek-R1-0528-Turbo,<API KEY>
+https://api.fireworks.ai/inference,/v1/chat/completions,accounts/fireworks/models/deepseek-r1-0528,<API KEY>
+https://api.together.xyz,/v1/chat/completions,deepseek-ai/DeepSeek-R1-0528-tput,<API KEY>
+https://api.together.xyz,/v1/chat/completions,deepseek-ai/DeepSeek-R1,<API KEY>
+https://api.sambanova.ai,/v1/chat/completions,DeepSeek-R1-0528,<API KEY>
+https://inference.baseten.co,/v1/chat/completions,deepseek-ai/DeepSeek-R1-0528,<API KEY>

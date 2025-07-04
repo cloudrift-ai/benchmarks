@@ -1,0 +1,9 @@
+https://inference.cloudrift.ai,/v1/chat/completions,meta-llama/Llama-4-Maverick-17B-128E-Instruct,<API KEY>
+https://api.deepinfra.com/v1/openai,/chat/completions,meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8,<API KEY>
+https://api.deepinfra.com/v1/openai,/chat/completions,meta-llama/Llama-4-Maverick-17B-128E-Instruct-Turbo,<API KEY>
+https://api.groq.com/openai,/v1/chat/completions,meta-llama/llama-4-maverick-17b-128e-instruct,<API KEY>
+https://api.fireworks.ai/inference,/v1/chat/completions,accounts/fireworks/models/llama4-maverick-instruct-basic,<API KEY>
+https://api.together.xyz,/v1/chat/completions,meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8,<API KEY>
+https://api.lambda.ai,/v1/chat/completions,llama-4-maverick-17b-128e-instruct-fp8,<API KEY>
+https://api.sambanova.ai,/v1/chat/completions,Llama-4-Maverick-17B-128E-Instruct,<API KEY>
+https://inference.baseten.co,/v1/chat/completions,meta-llama/Llama-4-Maverick-17B-128E-Instruct,<API KEY>
